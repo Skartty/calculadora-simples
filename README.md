@@ -41,6 +41,11 @@ Este projeto é uma calculadora simples desenvolvida em C# utilizando Windows Fo
 4. Clique em = para ver o resultado.
 5. Use o botão C para limpar e começar uma nova operação.
 
+
+### Imagem Referencia
+
+![image](https://github.com/user-attachments/assets/867269fd-810a-459f-88dc-e6a9facf4a88)
+
 ---
 
 **Referências:**
